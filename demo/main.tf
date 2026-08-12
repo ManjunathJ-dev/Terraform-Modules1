@@ -4,7 +4,8 @@
 #    Name/Tag of the server = Type of the server
 # AUTHOR: ADAM M | +91-9739110917 
 # ------------------------------------------------------------------- #
-# Manjunath 
+# Manjunath
+# Nikhil
 
 provider "aws" {
   region = "ap-south-1"
@@ -18,7 +19,7 @@ variable "myhosts" {
 }
 
 variable "mykey" { 
-  default = "wezva2026"
+  default = "dev26"
 }
 
 module "server" {
