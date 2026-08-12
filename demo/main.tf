@@ -4,6 +4,7 @@
 #    Name/Tag of the server = Type of the server
 # AUTHOR: ADAM M | +91-9739110917 
 # ------------------------------------------------------------------- #
+# Manjunath 
 
 provider "aws" {
   region = "ap-south-1"
